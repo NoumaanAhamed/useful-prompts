@@ -17,9 +17,9 @@ This repository contains a curated list of prompts that can be used with AI lang
 
 The prompts can be found in the corresponding files, organized into the following categories:
 
-- [Deep Research](deep-research.md): Prompts specifically designed for Gemini DeepResearch.
-- [ChatGPT](ChatGPT.md): Prompts tailored for ChatGPT.
-- [General](General.md): Prompts that can be used with any AI language model.
+- [Deep Research](prompts/deep-research.md): Prompt specifically designed for DeepResearch.
+- [Learn From First Principles](prompts/learn-from-first-principles.md): Prompt tailored for learning concepts from the ground up.
+- [System Prompts](prompts/system-prompts.md): Prompts that can be used with any AI language model.
 
 ## Contributing
 
